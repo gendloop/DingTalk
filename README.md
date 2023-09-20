@@ -1,9 +1,9 @@
-# RepoName
+# DingTalk
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/DingTalk
 ```
 
 ## Notes
